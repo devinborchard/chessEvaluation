@@ -1,0 +1,83 @@
+3r4/5ppp/pp6/3kP3/3p1PP1/P1rR3P/5K2/4R3_w
+
+|_0|_0|_0|-4|_0|_0|_0|_0|
+|_0|_0|_0|_0|_0|-1|-1|-1|
+|-1|-1|_0|_0|_0|_0|_0|_0|
+|_0|_0|_0|-6|_1|_0|_0|_0|
+|_0|_0|_0|-1|_0|_1|_1|_0|
+|_1|_0|-4|_4|_0|_0|_0|_1|
+|_0|_0|_0|_0|_0|_6|_0|_0|
+|_0|_0|_0|_0|_4|_0|_0|_0|
+
+
+Evaluator: 0
+Depth: 1
+AI Move: rc3
+Stock Move: rc3
+Correct: True
+
+Evaluator: 0
+Depth: 2
+AI Move: rc3
+Stock Move: rc3
+Correct: True
+
+Evaluator: 0
+Depth: 3
+AI Move: re3
+Stock Move: rc3
+Correct: False
+
+Evaluator: 0
+Depth: 4
+AI Move: rd1
+Stock Move: rc3
+Correct: False
+
+Evaluator: 1
+Depth: 1
+AI Move: rc3
+Stock Move: rc3
+Correct: True
+
+Evaluator: 1
+Depth: 2
+AI Move: rc3
+Stock Move: rc3
+Correct: True
+
+Evaluator: 1
+Depth: 3
+AI Move: rc3
+Stock Move: rc3
+Correct: True
+
+Evaluator: 1
+Depth: 4
+AI Move: rc3
+Stock Move: rc3
+Correct: True
+
+Evaluator: 2
+Depth: 1
+AI Move: rd4
+Stock Move: rc3
+Correct: False
+
+Evaluator: 2
+Depth: 2
+AI Move: rc3
+Stock Move: rc3
+Correct: True
+
+Evaluator: 2
+Depth: 3
+AI Move: rc3
+Stock Move: rc3
+Correct: True
+
+Evaluator: 2
+Depth: 4
+AI Move: rc3
+Stock Move: rc3
+Correct: True

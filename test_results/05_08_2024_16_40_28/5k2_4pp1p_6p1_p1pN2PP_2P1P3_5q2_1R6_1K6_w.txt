@@ -1,0 +1,83 @@
+5k2/4pp1p/6p1/p1pN2PP/2P1P3/5q2/1R6/1K6_w
+
+|_0|_0|_0|_0|_0|-6|_0|_0|
+|_0|_0|_0|_0|-1|-1|_0|-1|
+|_0|_0|_0|_0|_0|_0|-1|_0|
+|-1|_0|-1|_2|_0|_0|_1|_1|
+|_0|_0|_1|_0|_1|_0|_0|_0|
+|_0|_0|_0|_0|_0|-5|_0|_0|
+|_0|_4|_0|_0|_0|_0|_0|_0|
+|_0|_6|_0|_0|_0|_0|_0|_0|
+
+
+Evaluator: 0
+Depth: 1
+AI Move: ne7
+Stock Move: rb8
+Correct: False
+
+Evaluator: 0
+Depth: 2
+AI Move: rb8
+Stock Move: rb8
+Correct: True
+
+Evaluator: 0
+Depth: 3
+AI Move: rb8
+Stock Move: rb8
+Correct: True
+
+Evaluator: 0
+Depth: 4
+AI Move: rb8
+Stock Move: rb8
+Correct: True
+
+Evaluator: 1
+Depth: 1
+AI Move: ne3
+Stock Move: rb8
+Correct: False
+
+Evaluator: 1
+Depth: 2
+AI Move: rb8
+Stock Move: rb8
+Correct: True
+
+Evaluator: 1
+Depth: 3
+AI Move: rb8
+Stock Move: rb8
+Correct: True
+
+Evaluator: 1
+Depth: 4
+AI Move: rb8
+Stock Move: rb8
+Correct: True
+
+Evaluator: 2
+Depth: 1
+AI Move: rb8
+Stock Move: rb8
+Correct: True
+
+Evaluator: 2
+Depth: 2
+AI Move: rb8
+Stock Move: rb8
+Correct: True
+
+Evaluator: 2
+Depth: 3
+AI Move: rb8
+Stock Move: rb8
+Correct: True
+
+Evaluator: 2
+Depth: 4
+AI Move: rb8
+Stock Move: rb8
+Correct: True

@@ -1,0 +1,33 @@
+-- INSTRUCTIONS --
+
+To compile, run 'make.sh' as an executable
+To run, run 'run.sh' as an executable with arguments
+
+run takes 3 command line arguments
+
+depth(int), evaluator(int 0-2), fen(string)
+
+depth is the depth the pruning algorithm will run To
+evaluator is the number of the evaluator that will be used 
+0 = material
+1 = mobility
+2 = checks
+fen is the string to represent the initial state. There are a list of fens used in testing in the fen.txt file. The lines starting with '#' are commented out. I left one uncommented.
+
+depths of 1 and 2 run quickly and without issue, depth of 3 runs fine on smaller states. Larger depths can take a while and run fine on my home PC but agate will time out and dump core on larger position before the algorithm finishes
+
+-- FILE DESCRIPTIONS -- 
+
+fp.cpp - main entry function for program
+game_chess.h - class for creating and running the alpha beta algorithm instance
+alpha_beta_chess.h - class for the ai algorithm
+puzzles.h - coverts fen string to State representation
+run.h - code for chess engine and static evaluator
+util.h - functions for calculating piece moves and other utilities
+
+
+-- PYTHON TESTING SCRIPTS --
+
+There are a few python scripts for automated testing.
+Running testing.py should run the compiled executable at depths 1-3 with all evaluators and store the results in a file in the test_results directory
+agate does not like the python script and does not run the executable from pytohn correctly but I included it for completeness.

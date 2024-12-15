@@ -1,0 +1,83 @@
+r1b4r/ppp2pk1/2n1p3/3p2q1/1b1P3P/2NB4/PPP2PP1/R2QK2R_w
+
+|-4|_0|-3|_0|_0|_0|_0|-4|
+|-1|-1|-1|_0|_0|-1|-6|_0|
+|_0|_0|-2|_0|-1|_0|_0|_0|
+|_0|_0|_0|-1|_0|_0|-5|_0|
+|_0|-3|_0|_1|_0|_0|_0|_1|
+|_0|_0|_2|_3|_0|_0|_0|_0|
+|_1|_1|_1|_0|_0|_1|_1|_0|
+|_4|_0|_0|_5|_6|_0|_0|_4|
+
+
+Evaluator: 0
+Depth: 1
+AI Move: pg5
+Stock Move: pg5
+Correct: True
+
+Evaluator: 0
+Depth: 2
+AI Move: pg5
+Stock Move: pg5
+Correct: True
+
+Evaluator: 0
+Depth: 3
+AI Move: pg5
+Stock Move: pg5
+Correct: True
+
+Evaluator: 0
+Depth: 4
+AI Move: DNF
+Stock Move: pg5
+Correct: False
+
+Evaluator: 1
+Depth: 1
+AI Move: pg5
+Stock Move: pg5
+Correct: True
+
+Evaluator: 1
+Depth: 2
+AI Move: pg5
+Stock Move: pg5
+Correct: True
+
+Evaluator: 1
+Depth: 3
+AI Move: pg5
+Stock Move: pg5
+Correct: True
+
+Evaluator: 1
+Depth: 4
+AI Move: DNF
+Stock Move: pg5
+Correct: False
+
+Evaluator: 2
+Depth: 1
+AI Move: pg5
+Stock Move: pg5
+Correct: True
+
+Evaluator: 2
+Depth: 2
+AI Move: pg5
+Stock Move: pg5
+Correct: True
+
+Evaluator: 2
+Depth: 3
+AI Move: pg5
+Stock Move: pg5
+Correct: True
+
+Evaluator: 2
+Depth: 4
+AI Move: DNF
+Stock Move: pg5
+Correct: False

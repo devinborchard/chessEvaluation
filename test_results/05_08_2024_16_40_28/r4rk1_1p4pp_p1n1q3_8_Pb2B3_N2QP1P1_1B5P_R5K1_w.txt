@@ -1,0 +1,83 @@
+r4rk1/1p4pp/p1n1q3/8/Pb2B3/N2QP1P1/1B5P/R5K1_w
+
+|-4|_0|_0|_0|_0|-4|-6|_0|
+|_0|-1|_0|_0|_0|_0|-1|-1|
+|-1|_0|-2|_0|-5|_0|_0|_0|
+|_0|_0|_0|_0|_0|_0|_0|_0|
+|_1|-3|_0|_0|_3|_0|_0|_0|
+|_2|_0|_0|_5|_1|_0|_1|_0|
+|_0|_3|_0|_0|_0|_0|_0|_1|
+|_4|_0|_0|_0|_0|_0|_6|_0|
+
+
+Evaluator: 0
+Depth: 1
+AI Move: bc6
+Stock Move: bd5
+Correct: False
+
+Evaluator: 0
+Depth: 2
+AI Move: bh7
+Stock Move: bd5
+Correct: False
+
+Evaluator: 0
+Depth: 3
+AI Move: bd5
+Stock Move: bd5
+Correct: True
+
+Evaluator: 0
+Depth: 4
+AI Move: DNF
+Stock Move: bd5
+Correct: False
+
+Evaluator: 1
+Depth: 1
+AI Move: bc6
+Stock Move: bd5
+Correct: False
+
+Evaluator: 1
+Depth: 2
+AI Move: bh7
+Stock Move: bd5
+Correct: False
+
+Evaluator: 1
+Depth: 3
+AI Move: bd5
+Stock Move: bd5
+Correct: True
+
+Evaluator: 1
+Depth: 4
+AI Move: DNF
+Stock Move: bd5
+Correct: False
+
+Evaluator: 2
+Depth: 1
+AI Move: bh7
+Stock Move: bd5
+Correct: False
+
+Evaluator: 2
+Depth: 2
+AI Move: bh7
+Stock Move: bd5
+Correct: False
+
+Evaluator: 2
+Depth: 3
+AI Move: DNF
+Stock Move: bd5
+Correct: False
+
+Evaluator: 2
+Depth: 4
+AI Move: DNF
+Stock Move: bd5
+Correct: False
